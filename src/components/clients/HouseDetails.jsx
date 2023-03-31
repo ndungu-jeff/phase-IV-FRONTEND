@@ -73,7 +73,7 @@ function HouseDetails({
     setValues({ ...values, openSnackbar: false });
   };
 
-  // prepopulate our form with data,in state
+  // pre-populate our form with data,in state
   useEffect(() => {
     const { name,
       location,

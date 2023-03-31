@@ -22,7 +22,6 @@ function ClientDetails() {
 
   // const currentClientDetails = useSelector(selectCurrentClientDetails)
   console.log(currentClientDetails)
-  // prepopulate our form with data in state
   useEffect( () => {
     const {
       full_name,

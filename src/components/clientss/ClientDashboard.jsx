@@ -6,7 +6,6 @@ import { selectCurrentClientDetail } from "../../features/clients/clientSlice";
 import { useSelector } from "react-redux";
 
 function ClientDashboard() {
-  // const currentClientDetails = useSelector(selectCurrentClientDetail)
   return(
   <>
   <NavPanel />
