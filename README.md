@@ -17,8 +17,13 @@ Description
 Happy Stays Bnb is a a website that provides a way for a owner to create, update houses which the owner will make them for a client to book a bnb. It also provides a way for a client to book a bnb, updates his/her account details and also view the bnb booked and also the available bnbs.
 
 
-<!-- Deployment link  -->
+<!--Frontend Deployment link  -->
 https://phase-iv-frontend.vercel.app/
+
+<!-- Backend Deployment link  -->
+https://jeff-bnb.onrender.com
+
+
 
 <!-- GITHUB LINK FOR THE BACKEND -->
 https://github.com/ndungu-jeff/jeff-bnb
