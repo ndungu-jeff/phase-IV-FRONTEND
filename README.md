@@ -20,6 +20,9 @@ Happy Stays Bnb is a a website that provides a way for a owner to create, update
 <!-- Deployment link  -->
 https://phase-iv-frontend.vercel.app/
 
+<!-- GITHUB LINK FOR THE BACKEND -->
+https://github.com/ndungu-jeff/jeff-bnb
+
 <!-- Setup Requirements -->
 • Git
 • Web-browser or your choice
